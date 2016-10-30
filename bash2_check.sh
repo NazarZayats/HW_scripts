@@ -29,4 +29,5 @@ mysql -u test1221 -ppass -e "show tables from test;"
 #
 #
 
-echo "<< Mariadb is installed, and works. >>"
+##echo "<< Mariadb is installed, and works. >>"
+
