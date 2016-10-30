@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-yum list | grep mariadb
+#yum list | grep mariadb
 if [ $? == 1 ] 
   then 
     cat <<EOT >> /etc/yum.repos.d/MariaDB.repo
