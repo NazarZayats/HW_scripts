@@ -25,3 +25,4 @@ if [ $? == 0 ]
 	else 
 		echo '<< Bad path!! >>'
 fi
+#add description
